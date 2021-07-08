@@ -1,6 +1,2 @@
 ---
-layout: slide
-title: "Bienvenidos a la segunda página!"
----
-Tu texto
-Utiliza la flecha hacia la izquierda para volver!
+all i want to do is learn !
